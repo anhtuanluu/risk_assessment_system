@@ -1,0 +1,84 @@
+Ingest date: 2023-06-15 14:46:09
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:33:23
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:33:34
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:35:09
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:35:50
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:36:42
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:37:32
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:39:42
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:39:58
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:40:11
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:41:03
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:43:26
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:43:45
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:44:18
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:44:28
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:46:46
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:48:26
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:49:13
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:49:25
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:50:01
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
+Ingest date: 2023-06-15 16:50:13
+File names:
+sourcedata\dataset3.csv
+sourcedata\dataset4.csv
