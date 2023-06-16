@@ -1,26 +1,15 @@
 """
 Create API
 """
-from flask import Flask, session, jsonify, request
+from flask import Flask, jsonify, request
 import pandas as pd
-import numpy as np
-import pickle
-import json
-import os
 import diagnostics
 import scoring
-
 
 ######################Set up variables for use in our script
 app = Flask(__name__)
 app.secret_key = '1652d576-484a-49fd-913a-6879acfa6ba4'
 
-# with open('config.json','r') as f:
-#     config = json.load(f) 
-
-# dataset_csv_path = os.path.join(config['output_folder_path']) 
-
-# prediction_model = None
 
 ######################Hello
 @app.route('/')
