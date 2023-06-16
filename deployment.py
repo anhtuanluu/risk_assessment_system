@@ -15,7 +15,10 @@ model_path = os.path.join(config['output_model_path'])
 
 ####################function for deployment
 def store_model_into_pickle():
-    #copy the latest pickle file, the latestscore.txt value, and the ingestfiles.txt file into the deployment directory
+    """
+    copy the latest pickle file, the latestscore.txt value, 
+    and the ingestfiles.txt file into the deployment directory
+    """
     logging.info("Deploy model to production")
     shutil.copy(os.path.join(dataset_csv_path, 'ingestedfiles.txt'), 
                 prod_deployment_path)
