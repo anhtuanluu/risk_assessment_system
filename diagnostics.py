@@ -129,10 +129,3 @@ if __name__ == '__main__':
     print("Missing percentage:\n", missing_percentage())
     print("Execution time:\n", execution_time())
     print("Outdated Packages:\n", outdated_packages_list())
-    
-
-
-
-
-
-    
