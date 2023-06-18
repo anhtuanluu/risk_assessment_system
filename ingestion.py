@@ -38,7 +38,7 @@ def merge_multiple_dataframe():
     df = df.drop_duplicates().reset_index(drop=1)
 
     logging.info("Save logs")
-    with open(os.path.join(output_folder_path, 'ingestedfiles.txt'), "a") as file:
+    with open(os.path.join(output_folder_path, 'ingestedfiles.txt'), "w") as file:
         # file.write(
         #     f"Ingest date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\nFile names:\n")
         file.write("\n".join(file_names) + '\n')

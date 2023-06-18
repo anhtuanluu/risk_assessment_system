@@ -67,5 +67,6 @@ def main():
     ##################Diagnostics and reporting
     logging.info("Run diagnostics and reporting")
     reporting.plot_confusion_matrix()
+    os.system("python apicalls.py")
 if __name__ == '__main__':
     main()

@@ -29,8 +29,8 @@ Summarystats:
 Diagnostics:
 {
   "execution_time": {
-    "ingestion_time": 0.5063294999999997, 
-    "training_time": 0.9961140000000013
+    "ingestion_time": 0.4939666999998735, 
+    "training_time": 0.8981009999999969
   }, 
   "missing_percentage": {
     "corporation": 0.0, 
