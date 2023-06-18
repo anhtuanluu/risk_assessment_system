@@ -34,11 +34,11 @@ def main():
     difference = ingested_files.difference(source_files)
 
     ##################Deciding whether to proceed, part 1
-    # if difference == set():
-    #     logging.info("No new data")
-    #     return
-    # logging.info("Ingest new data")
-    # ingestion.merge_multiple_dataframe()
+    if difference == set():
+        logging.info("No new data")
+        return
+    logging.info("Ingest new data")
+    ingestion.merge_multiple_dataframe()
 
     ##################Checking for model drift
     with open(os.path.join(prod_deployment_path, "latestscore.txt")) as file:
