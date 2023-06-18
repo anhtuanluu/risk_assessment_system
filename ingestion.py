@@ -39,8 +39,8 @@ def merge_multiple_dataframe():
 
     logging.info("Save logs")
     with open(os.path.join(output_folder_path, 'ingestedfiles.txt'), "a") as file:
-        file.write(
-            f"Ingest date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\nFile names:\n")
+        # file.write(
+        #     f"Ingest date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\nFile names:\n")
         file.write("\n".join(file_names) + '\n')
 
     logging.info("Write final data")
